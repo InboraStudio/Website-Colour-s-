@@ -1,0 +1,28 @@
+/* CSV */
+fbf8cc,fde4cf,ffcfd2,f1c0e8,cfbaf0,a3c4f3,90dbf4,8eecf5,98f5e1,b9fbc0
+
+/* With # */
+#fbf8cc, #fde4cf, #ffcfd2, #f1c0e8, #cfbaf0, #a3c4f3, #90dbf4, #8eecf5, #98f5e1, #b9fbc0
+
+/* Array */
+["fbf8cc","fde4cf","ffcfd2","f1c0e8","cfbaf0","a3c4f3","90dbf4","8eecf5","98f5e1","b9fbc0"]
+
+/* Object */
+{"Lemon Chiffon":"fbf8cc","Champagne Pink":"fde4cf","Baby Pink":"ffcfd2","Pink Lavender":"f1c0e8","Mauve":"cfbaf0","Baby Blue Eyes":"a3c4f3","Non Photo Blue":"90dbf4","Electric Blue":"8eecf5","Magic Mint":"98f5e1","Granny Smith Apple":"b9fbc0"}
+
+/* Extended Array */
+[{"name":"Lemon Chiffon","hex":"fbf8cc","rgb":[251,248,204],"cmyk":[0,1,19,2],"hsb":[56,19,98],"hsl":[56,85,89],"lab":[97,-6,22]},{"name":"Champagne Pink","hex":"fde4cf","rgb":[253,228,207],"cmyk":[0,10,18,1],"hsb":[27,18,99],"hsl":[27,92,90],"lab":[92,5,13]},{"name":"Baby Pink","hex":"ffcfd2","rgb":[255,207,210],"cmyk":[0,19,18,0],"hsb":[356,19,100],"hsl":[356,100,91],"lab":[87,17,5]},{"name":"Pink Lavender","hex":"f1c0e8","rgb":[241,192,232],"cmyk":[0,20,4,5],"hsb":[311,20,95],"hsl":[311,64,85],"lab":[83,24,-13]},{"name":"Mauve","hex":"cfbaf0","rgb":[207,186,240],"cmyk":[14,23,0,6],"hsb":[263,23,94],"hsl":[263,64,84],"lab":[79,18,-24]},{"name":"Baby Blue Eyes","hex":"a3c4f3","rgb":[163,196,243],"cmyk":[33,19,0,5],"hsb":[215,33,95],"hsl":[215,77,80],"lab":[78,0,-27]},{"name":"Non Photo Blue","hex":"90dbf4","rgb":[144,219,244],"cmyk":[41,10,0,4],"hsb":[195,41,96],"hsl":[195,82,76],"lab":[84,-17,-20]},{"name":"Electric Blue","hex":"8eecf5","rgb":[142,236,245],"cmyk":[42,4,0,4],"hsb":[185,42,96],"hsl":[185,84,76],"lab":[88,-26,-13]},{"name":"Magic Mint","hex":"98f5e1","rgb":[152,245,225],"cmyk":[38,0,8,4],"hsb":[167,38,96],"hsl":[167,82,78],"lab":[91,-32,1]},{"name":"Granny Smith Apple","hex":"b9fbc0","rgb":[185,251,192],"cmyk":[26,0,24,2],"hsb":[126,26,98],"hsl":[126,89,85],"lab":[93,-32,22]}]
+
+/* XML */
+<palette>
+  <color name="Lemon Chiffon" hex="fbf8cc" r="251" g="248" b="204" />
+  <color name="Champagne Pink" hex="fde4cf" r="253" g="228" b="207" />
+  <color name="Baby Pink" hex="ffcfd2" r="255" g="207" b="210" />
+  <color name="Pink Lavender" hex="f1c0e8" r="241" g="192" b="232" />
+  <color name="Mauve" hex="cfbaf0" r="207" g="186" b="240" />
+  <color name="Baby Blue Eyes" hex="a3c4f3" r="163" g="196" b="243" />
+  <color name="Non Photo Blue" hex="90dbf4" r="144" g="219" b="244" />
+  <color name="Electric Blue" hex="8eecf5" r="142" g="236" b="245" />
+  <color name="Magic Mint" hex="98f5e1" r="152" g="245" b="225" />
+  <color name="Granny Smith Apple" hex="b9fbc0" r="185" g="251" b="192" />
+</palette>
